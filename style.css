@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: larger;
+
+}
+
+.main {}
+
+.btn-area {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    font-size: larger;
+    border-radius: 5px;
+    border: none;
+    margin: 3px;
+}
+
+
+
+.row {
+    display: flex;
+    flex-direction: column;
+}
